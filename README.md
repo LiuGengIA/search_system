@@ -2,6 +2,8 @@
 
 ## Usage
 
+CLIP enviroment is required
+
 conda env
 
 ```
