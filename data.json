@@ -1,0 +1,78 @@
+[
+	{
+		"id": 8,
+		"name": "Dog rigged",
+		"description":"scan dog rigged meta rigged name.",
+		"path":"./static/test_images/test_dog.png",
+		"attribute_tag":{},
+		"style_tag":{},
+		"category_tag": {
+			"1386": "dog",
+			"155": "domestic animal",
+			"3": "animal"
+		},
+		"color_tag": {
+			"9": "brown",
+			"6": "black"
+		},
+		"shape_tag": {},
+		"texture_tag": {}
+	},
+	{
+		"id": 67,
+		"name": "test_name",
+		"description":"test description",
+		"path":"https://test.com/test",
+		"attribute_tag":{},
+		"style_tag":{},
+		"category_tag": {
+			"1460": "cat",
+			"155": "domestic animal",
+			"3": "animal"
+		},
+		"color_tag": {
+			"9": "brown",
+			"6": "black"
+		},
+		"shape_tag": {},
+		"texture_tag": {}
+	},
+	{
+		"id": 67,
+		"name": "test_name",
+		"description":"test description",
+		"path":"https://test.com/test",
+		"attribute_tag":{},
+		"style_tag":{},
+		"category_tag": {
+			"1460": "cat",
+			"155": "domestic animal",
+			"3": "animal"
+		},
+		"color_tag": {
+			"9": "brown",
+			"6": "black"
+		},
+		"shape_tag": {},
+		"texture_tag": {}
+	},
+	{
+		"id": 67,
+		"name": "test_name",
+		"description":"test description",
+		"path":"https://test.com/test",
+		"attribute_tag":{},
+		"style_tag":{},
+		"category_tag": {
+			"1460": "cat",
+			"155": "domestic animal",
+			"3": "animal"
+		},
+		"color_tag": {
+			"9": "brown",
+			"6": "black"
+		},
+		"shape_tag": {},
+		"texture_tag": {}
+	}
+]

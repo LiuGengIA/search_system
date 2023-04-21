@@ -1,0 +1,313 @@
+{
+  "0": {
+    "id": 0,
+    "name": "spicy ramen noodle",
+    "description": "Spicy ramen noodle with egg and meat.",
+    "path": "https://skfb.ly/6zAvP",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "7837": "egg",
+      "7184": "foodstuff",
+      "5": "food",
+      "7839": "boiled_egg",
+      "7169": "dish",
+      "7190": "nutriment",
+      "6185": "soup_bowl",
+      "2925": "bowl",
+      "3727": "dish",
+      "6461": "tableware",
+      "6": "artifact",
+      "2926": "bowl",
+      "6811": "vessel",
+      "3492": "container",
+      "7534": "onion",
+      "7472": "vegetable",
+      "7535": "green_onion",
+      "9536": "onion"
+    },
+    "color_tag": {
+      "2": "yellow",
+      "0": "red",
+      "3": "green",
+      "5": "white"
+    },
+    "shape_tag": {
+      "4": "oval",
+      "3": "circle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/000.png"
+  },
+  "1": {
+    "id": 1,
+    "name": "bottled car",
+    "description": "A vintage car of an unknown origin. In a bottle.",
+    "path": "https://skfb.ly/ony9T",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "3190": "car_wheel",
+      "6919": "wheel",
+      "4873": "machine",
+      "4962": "mechanical_device",
+      "4964": "mechanism",
+      "3682": "device",
+      "6": "artifact",
+      "3824": "driving_wheel",
+      "5155": "nosewheel",
+      "6307": "steering_wheel",
+      "3494": "control",
+      "6923": "wheeled_vehicle",
+      "3492": "container",
+      "2912": "bottle",
+      "6811": "vessel",
+      "6879": "water_bottle",
+      "6966": "wine_bottle",
+      "4267": "glass",
+      "6461": "tableware",
+      "4268": "glasses_case",
+      "3192": "case",
+      "5475": "plug",
+      "6368": "structure",
+      "5476": "plug",
+      "3884": "electrical_device"
+    },
+    "color_tag": {
+      "2": "yellow",
+      "6": "black",
+      "5": "white"
+    },
+    "shape_tag": {
+      "3": "circle",
+      "0": "rectangle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/001.png"
+  },
+  "2": {
+    "id": 2,
+    "name": "industrial building",
+    "description": "lowpoly industrial building used for background.",
+    "path": "https://skfb.ly/o9T9T",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "3971": "factory",
+      "5450": "plant",
+      "3014": "building_complex",
+      "6368": "structure",
+      "6": "artifact",
+      "3013": "building"
+    },
+    "color_tag": {
+      "9": "brown",
+      "5": "white"
+    },
+    "shape_tag": {
+      "0": "rectangle",
+      "1": "square"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/002.png"
+  },
+  "3": {
+    "id": 3,
+    "name": "westland whirlwind",
+    "description": "lowpoly industrial building used for background.",
+    "path": "https://skfb.ly/o9T9T",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "2443": "aircraft",
+      "3569": "craft",
+      "6794": "vehicle",
+      "3507": "conveyance",
+      "6": "artifact",
+      "2445": "aircraft_engine",
+      "3915": "engine",
+      "5065": "motor",
+      "4872": "machine",
+      "3682": "device",
+      "2455": "airplane",
+      "2456": "airplane_propeller",
+      "5572": "propeller",
+      "4962": "mechanical_device",
+      "4964": "mechanism",
+      "5573": "propeller_plane",
+      "4018": "fighter"
+    },
+    "color_tag": {
+      "3": "green",
+      "7": "grey"
+    },
+    "shape_tag": {
+      "3": "circle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/003.png"
+  },
+  "4": {
+    "id": 4,
+    "name": "KSR 29 Sniper",
+    "description": "Sniper rifle Concept by St-Pete.",
+    "path": "https://skfb.ly/543g2fb",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "6146": "sniper_rifle",
+      "5742": "rifle",
+      "4035": "firearm",
+      "4347": "gun",
+      "6900": "weapon",
+      "4591": "instrument",
+      "3682": "device",
+      "6": "artifact",
+      "6531": "telescope",
+      "4883": "magnifier",
+      "5201": "optical_telescope",
+      "2557": "astronomical_telescope"
+    },
+    "color_tag": {
+      "5": "white",
+      "6": "black"
+    },
+    "shape_tag": {
+      "3": "circle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/004.png"
+  },
+  "5": {
+    "id": 5,
+    "name": "Demon Hunter",
+    "description": "Demon Hunter Hand painted texture and modeling project Model in Tpose.",
+    "path": "https://skfb.ly/EEAH",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "2": "person",
+      "4376": "hand",
+      "4583": "indicator",
+      "3682": "device",
+      "6": "artifact",
+      "159": "head",
+      "155": "domestic_animal",
+      "3": "animal",
+      "3599": "crossbow",
+      "2920": "bow",
+      "6900": "weapon",
+      "4591": "instrument",
+      "4496": "hood",
+      "4429": "headdress",
+      "3392": "clothing",
+      "6592": "tights",
+      "4516": "hosiery",
+      "4118": "footwear"
+    },
+    "color_tag": {
+      "9": "brown",
+      "6": "black"
+    },
+    "shape_tag": {
+      "3": "circle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/005.png"
+  },
+  "6": {
+    "id": 6,
+    "name": "Chair of Shame",
+    "description": "just a regular shmegular chair boi.",
+    "path": "https://skfb.ly/EEAH",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "3265": "chair",
+      "5932": "seat",
+      "4174": "furniture",
+      "4172": "furnishing",
+      "6": "artifact",
+      "3266": "chair",
+      "5931": "seat",
+      "3682": "device",
+      "6346": "straight_chair"
+    },
+    "color_tag": {
+      "9": "brown"
+    },
+    "shape_tag": {
+      "0": "rectangle"
+    },
+    "texture_tag": {},
+    "local_path": "./static/sample_images/006.png"
+  },
+  "7": {
+    "id": 7,
+    "name": "Ripe Banana",
+    "description": "3D scan of a ripe banana.",
+    "path": "https://skfb.ly/os8PF",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "7659": "banana",
+      "7471": "edible_fruit",
+      "9445": "banana",
+      "9270": "herb",
+      "4": "plant"
+    },
+    "color_tag": {
+      "2": "yellow",
+      "6": "black"
+    },
+    "shape_tag": {},
+    "texture_tag": {},
+    "local_path": "./static/sample_images/007.png"
+  },
+  "8": {
+    "id": 8,
+    "name": "Dog rigged",
+    "description": "Scan dog rigged meta rigged name.",
+    "path": "https://skfb.ly/oppYQ",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "1386": "dog",
+      "155": "domestic_animal",
+      "3": "animal"
+    },
+    "color_tag": {
+      "9": "brown",
+      "6": "black"
+    },
+    "shape_tag": {},
+    "texture_tag": {},
+    "local_path": "./static/sample_images/008.png"
+  },
+  "9": {
+    "id": 9,
+    "name": "Used New Balance 574 Classic",
+    "description": ".",
+    "path": "https://skfb.ly/6RqXy",
+    "attribute_tag": {},
+    "style_tag": {},
+    "category_tag": {
+      "6020": "shoe",
+      "4117": "footwear",
+      "6": "artifact",
+      "6021": "shoe",
+      "3192": "case",
+      "3492": "container",
+      "3521": "cord",
+      "3682": "device",
+      "6589": "tie"
+    },
+    "color_tag": {
+      "7": "grey",
+      "4": "blue"
+    },
+    "shape_tag": {},
+    "texture_tag": {},
+    "local_path": "./static/sample_images/009.png"
+  }
+}

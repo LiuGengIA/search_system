@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asset Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="search-container">
+        <h1>Asset Search</h1>
+        <form id="asset-search-form" method="POST" action="{{ url_for('search') }}" enctype="multipart/form-data">
+            <label for="search-type">Search Type:</label>
+            <select name="search-type" id="search-type">
+                <option value="tag">Tag</option>
+                <option value="name">Name</option>
+                <option value="description">Description</option>
+                <option value="text">Semantic Text</option>
+                <option value="image">Semantic Image</option>
+            </select>
+            <label for="search-content">Search Content:</label>
+            <input type="text" name="search-content" id="search-content">
+            <label for="search-image">Upload Image:</label>
+            <input type="file" name="search-image" id="search-image">
+            <label for="num">Num:</label>
+            <input type="text" name="num" id="num">
+            <button type="submit">Search</button>
+        </form>
+        <div class="results-container">
+            {% if results %}
+{#                <div>Search Type: <strong>{{ search_type }}</strong></div>#}
+{#                <div>Search Content: <strong>{{ search_content }}</strong></div>#}
+                {% for asset in results %}
+                    <div class="result">
+                        <h2>{{ asset['name'] }}</h2>
+                        <img src="{{ asset['local_path'] }}" alt="{{ asset['name'] }}">
+                        <p><strong>ID:</strong> {{ asset['id'] }}</p>
+                        <p><strong>Description:</strong> {{ asset['description'] }}</p>
+                        <p><strong>Category Tags:</strong> {{ asset['category_tag'] }}</p>
+                        <p><strong>Color Tags:</strong> {{ asset['color_tag'] }}</p>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
